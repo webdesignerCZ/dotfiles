@@ -1,0 +1,28 @@
+{
+	"autosave": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"draw_white_space": "all",
+	"flatland_sidebar_tree_xsmall": true,
+	"flatland_square_tabs": true,
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"material_theme_accent_indigo": true,
+	"material_theme_arrow_folders": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_panel": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"save_on_focus_lost": true,
+	"theme": "predawn-DEV.sublime-theme"
+}
